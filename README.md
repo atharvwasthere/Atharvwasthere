@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](file:///C:/Users/athar/Downloads/github-header-image.png)
 ### Hi there 👋
 - 🌱 I’m currently learning JavaScript
 - - 😄 Pronouns:he/him
