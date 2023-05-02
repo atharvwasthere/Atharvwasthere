@@ -1,8 +1,10 @@
+![Header](./github-header-image.png)
 ### Hi there 👋
+- 🌱 I’m currently learning JavaScript
+- - 😄 Pronouns:he/him
 
 <!--
 **AtharvSingh-Git/AtharvSingh-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Header](./github-header-image.png)
 
 Here are some ideas to get you started:
 
