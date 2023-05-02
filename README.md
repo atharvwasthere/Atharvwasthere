@@ -2,7 +2,7 @@
 
 <!--
 **AtharvSingh-Git/AtharvSingh-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Header]("C:\Users\athar\Downloads\github-header-image.png")
+![Header](./github-header-image.png)
 
 Here are some ideas to get you started:
 
