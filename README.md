@@ -2,9 +2,9 @@
 ### Hi there 👋
 - 🌱 I’m currently learning JavaScript
 - -😄 Pronouns: he/him -->
-## Hey I'm Atharv! 👋
+## Hey,  I'm Atharv! ⚡️
 
-![Header]()
+![Header](./gh-profile-banner.png)
 
  A CS Sophomore at VIT, passionate about crafting digital experiences and exploring the world of code. Here's a glimpse of who I am and what I do:
 
@@ -18,24 +18,15 @@
 - ⚙️ Exploring backend logic coding
 - 🧠 Always eager to learn and explore new technologies
 
+
+ 
 ## Tech Stack
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Tech Stack</title>
-  </head>
-  <body>
-    <ul>
-      <li>HTML</li>
-      <li>CSS</li>
-      <li>JavaScript</li>
-      <li>DART (Learning)</li>
-    </ul>
-  </body>
-</html>
+- **HTML** [![HTML](https://img.icons8.com/color/24/000000/html-5.png)](https://www.w3.org/html/)
+- **CSS** [![CSS](https://img.icons8.com/color/24/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- **JavaScript** [![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- **DART (Learning)** [![DART](https://img.icons8.com/color/24/000000/dart.png)](https://dart.dev/)
+
 
 
 ## Stats
