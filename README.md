@@ -1,7 +1,42 @@
-![Header](./github-header-image.png)
+<!--[Header](./github-header-image.png)
 ### Hi there 👋
 - 🌱 I’m currently learning JavaScript
-- -😄 Pronouns: he/him
+- -😄 Pronouns: he/him -->
+## Hey I'm Atharv! 👋
+
+![Header]()
+
+ A CS Sophomore at VIT, passionate about crafting digital experiences and exploring the world of code. Here's a glimpse of who I am and what I do:
+
+## About Me
+
+- 🎓 Computer Science Sophomore at VIT
+- 💻 He/Him
+- 🚀 Aspiring Android Developer
+- 🌐 Fluent with HTML, CSS, and JavaScript
+- 📱 Learning DART for Flutter development
+- ⚙️ Exploring backend logic coding
+- 🧠 Always eager to learn and explore new technologies
+
+## Tech Stack
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Tech Stack</title>
+  </head>
+  <body>
+    <ul>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>DART (Learning)</li>
+    </ul>
+  </body>
+</html>
+
 
 ## Stats
 
