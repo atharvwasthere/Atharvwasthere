@@ -14,7 +14,6 @@
 - 💻 He/Him
 - 🚀 Aspiring Android Developer
 - 🌐 Fluent with HTML, CSS, and JavaScript
-- 📱 Learning DART for Flutter development
 - ⚙️ Exploring backend logic coding
 - 🧠 Always eager to learn and explore new technologies
 
@@ -25,7 +24,10 @@
 - **HTML** [![HTML](https://img.icons8.com/color/24/000000/html-5.png)](https://www.w3.org/html/)
 - **CSS** [![CSS](https://img.icons8.com/color/24/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - **JavaScript** [![JavaScript](https://img.icons8.com/color/24/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- **DART (Learning)** [![DART](https://img.icons8.com/color/24/000000/dart.png)](https://dart.dev/)
+- **Node.js** [![Node.js](https://img.icons8.com/color/24/000000/nodejs.png)](https://nodejs.org/)
+- **Express.js** [![Express.js](https://img.icons8.com/offices/24/000000/react.png)](https://expressjs.com/)
+- **MySQL** [![MySQL](https://img.icons8.com/color/24/000000/mysql-logo.png)](https://www.mysql.com/)
+- **MongoDB** [![MongoDB](https://img.icons8.com/color/24/000000/mongodb.png)](https://www.mongodb.com/)
 
 
 
