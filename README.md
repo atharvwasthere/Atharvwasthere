@@ -26,7 +26,7 @@
 
    <h2>Stats</h2>
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvSingh-Git&layout=compact&theme=radical" alt="Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvwasthere&layout=compact&theme=radical" alt="Top Languages">
     </div>
     
    <div align='center'> 
