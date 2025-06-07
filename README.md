@@ -3,7 +3,7 @@
 
 ![Header](./gh-profile-banner.png)
 
-   <p>I'm a pre-final year Computer Science student at VIT. I've got a real passion for backend development, core C++ projects, and picking up new tech skills along the way. Here's a little snapshot of who I am and what I'm about:</p>
+   <p>I'm a final year Computer Science student at VIT. I've got a real passion for backend development, core C++ projects, and picking up new tech skills along the way. Here's a little snapshot of who I am and what I'm about:</p>
 
    <h2 >About Me</h2>
     <ul>
@@ -12,7 +12,6 @@
         <li>🌟 <strong>Aspiring Backend Developer</strong></li>
         <li>🔥 <strong>Intermediate++ in C++</strong> (always looking to level up!)</li>
         <li>🗄️  Built an Event Management System for college (shoutout to EveSpark!).</li>
-        <li>🏅 <strong>Competitive Programming Hobbyist:</strong> Not a pro, but I enjoy the challenge!</li>
         <li>💡 <strong>Lifelong Learner:</strong> Always eager to explore and master new technologies.</li>
     </ul>
 
