@@ -1,47 +1,30 @@
+![Header](./GithubBanner.png)
 
-<h1  >Howdy, I'm Atharv! ⚡️</h1>
+<h3>I Write code that moves data <code>fast</code>, hits servers hard, and doesn’t cry in production.</h3>
 
-![Header](./gh-profile-banner.png)
+<br/>
 
-   <p>I'm a final year Computer Science student at VIT. I've got a real passion for backend development, core C++ projects, and picking up new tech skills along the way. Here's a little snapshot of who I am and what I'm about:</p>
+<h3>Stack</h3>
+<p>
+<code>C++</code> <code>Go</code> <code>Python</code> <code>JavaScript</code><br/>
+<code>Node.js</code> <code>React</code> <code>Express</code> <code>TanStack</code><br/>
+<code>MongoDB</code> <code>MySQL</code> <code>Docker</code> <code>Redis</code> <code>Git</code> <code>AWS (EC2, S3)</code>
+</p>
 
-   <h2 >About Me</h2>
-    <ul>
-        <li>🎓 <strong>CS Student at VIT</strong></li>
-        <li>🧑‍💻 <strong>He/Him</strong></li>
-        <li>🌟 <strong>Aspiring Backend Developer</strong></li>
-        <li>🔥 <strong>Intermediate++ in C++</strong> (always looking to level up!)</li>
-        <li>🗄️  Built an Event Management System for college (shoutout to EveSpark!).</li>
-        <li>💡 <strong>Lifelong Learner:</strong> Always eager to explore and master new technologies.</li>
-    </ul>
+<br/>
 
-   <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-    <br/>
-    <div align="center">
-        <img src="https://skillicons.dev/icons?i=react,tailwindcss,html,css,vscode,notion,figma,arch,git,bash,github" alt="skills">
-        <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,cpp,mysql" alt="skills">
-    </div>
-    <br/>
+<h3>Principles</h3>
+<p>
+<code>Logs &gt; dashboards</code><br/>
+<code>Infra that scales quietly</code><br/>
+<code>CLI &gt; GUI</code><br/>
+<code>Read the damn docs first</code><br/>
+<code>Flow matters more than features</code><br/>
+<code>Marketing is part of the stack</code><br/>
+</p>
 
-   <h2>Stats</h2>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvwasthere&layout=compact&theme=radical" alt="Top Languages">
-    </div>
-    
-   <div align='center'> 
-   <p>Feel free to check out my projects, connect with me, or just drop a message to say hi! Always up for a good tech chat or collaboration.</p>
+<br/>
 
-   </div>
-
-   <div align="center">
-        <a href="mailto:singhatharv1919@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail">
-        </a>
-        <a href="https://www.linkedin.com/in/atharv-singh-b83747250/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-    </div>
-        <p align="center">Cheers! 🥂</p>
-
-
-
+<h3>
+<code><a href="mailto:singhatharv1919@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/atharv-singh-b83747250/">LinkedIn</a> · <a href="https://leetcode.com/u/AtharvatLC/">LeetCode</a>· <a href="https://open.spotify.com/user/ikb0sbf59ghyite93wmm048zv?si=4576b89dba8848f2">Spotify</a> · <a href="https://hashnode.com/@AtharvBlogs">HashNode</a></code>
+</h3>
